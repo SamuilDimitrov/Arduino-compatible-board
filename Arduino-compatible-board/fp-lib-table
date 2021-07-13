@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/libs/footprints.pretty)(options "")(descr ""))
+  (lib (name footprints2)(type KiCad)(uri ${KIPRJMOD}/libs/2021-07-10_17-55-16/footprints.pretty)(options "")(descr "")(disabled))
+  (lib (name project_footprints)(type KiCad)(uri C:/Users/Samuil/Desktop/samd_hcc_mod-master/hcc_g/PCB/project_libs/project_footprints.pretty)(options "")(descr ""))
+)
